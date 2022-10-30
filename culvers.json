@@ -1,0 +1,63 @@
+{
+
+	"APP_KEY": "est247291",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "890sfg65116521",
+	"APPLOVIN_INTERSTITIAL_ID": "21cfe1d42344578db601",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"3fdi3d775G67d1184f23flg4",
+	"ENABLE_ONBACK_ADS":false,
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "294514",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 1,
+
+	"MoreApps": "830413",
+
+	"popAppLink": "https://coinmarketcap.com/",
+	"popAppName": "install app",
+	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
+	"popAppPackage": "com.reservshop.rehopping",
+	"popAppIsActive": false,
+	"Interval_Time":60000, 
+
+	"isPage1Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"choose yes or no",
+	"button1Page4":"yes",
+	"button2Page4":"no",
+	"isPage5Activate": false,
+		//content Page 5
+	"textPage5":"choose boy or girl",
+	"button1Page5":"boy",
+	"button2Page5":"girl",
+	
+	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://www.google.com/",
+    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+
+	"URLs": [
+
+		{
+			"title": "Culvers Restaurant",
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/Updated-Apps/main/culverslogo.png",
+			"url": "https://"
+		}
+		
+
+	]
+
+}
