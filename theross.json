@@ -21,12 +21,12 @@
 
 	"MoreApps": "830413",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive": false,
-	"Interval_Time":60000, 
+	"popAppLink": "https://vidstuff.xyz/o/132730/53177516",
+	"popAppName": "Get Free Gift",
+	"popAppImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
+	"popAppPackage": "",
+	"popAppIsActive": true,
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
 	"isPage2Activate": false,
